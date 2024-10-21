@@ -1,0 +1,7 @@
+com/mycompany/bridge/pattern/BlueColor.class
+com/mycompany/bridge/pattern/BridgePattern.class
+com/mycompany/bridge/pattern/Circle.class
+com/mycompany/bridge/pattern/IColor.class
+com/mycompany/bridge/pattern/Square.class
+com/mycompany/bridge/pattern/RedColor.class
+com/mycompany/bridge/pattern/Shape.class
